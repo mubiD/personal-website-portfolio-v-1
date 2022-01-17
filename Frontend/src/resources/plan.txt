@@ -1,0 +1,109 @@
+VISION:
+    - Create a personal website that:
+        - shows creativity
+        - shows technical ability
+        - showcases projects and achievements
+        - shares contact information
+        
+OBJECTIVES (to do/milestones/outcomes):
+    - create a wireframe for each page/component
+    - build each page according to defined specs 
+    - purchase domain and deploy
+
+TECH STACK:
+
+    FRONT-END:
+        - React.js
+        - react-bootstrap
+        - custom css
+
+    BACK-END:
+        - to be confirmed
+
+    SECURITY:
+        - to be confirmed
+
+    DEPLOYMENT:
+        - heroku
+
+    TESTING:
+        - mocha and chai
+            - unit tests
+            - snapshot test
+
+COMPONENTS:
+
+    0. UNIVERSAL:
+
+        - FUNCTIONAL:
+            - navbar to go from page to page (component to component)
+            - this will be done using react router
+
+        - NON-FUNCTIONAL:
+            - clean, striking colors
+            - intuitive layout
+            - simplistic 
+
+    1. APP:
+
+        - FUNCTIONAL:
+            - injection point for the components
+
+        - NON-FUNCTIONAL:
+            - N/A
+
+    2. HOME:
+
+        - FUNCTIONAL:
+            - a 'read more' button that takes us to the about page
+
+        - NON-FUNCTIONAL:
+            - intro to about page (30 words)
+
+    3. ABOUT:
+
+        - FUNCTIONAL:
+            -
+
+        - NON-FUNCTIONAL:
+            - short writeup about myself, hobbies & interests, education & achievements, aspirations & goals 
+
+    4. PROJECTS:
+
+        - FUNCTIONAL:
+            - a component to be rendered for each project
+                - links to deployed projects
+                - short description of the project
+                - tech stack used for each project
+
+        - NON-FUNCTIONAL:
+            
+    5. CONTACT:
+
+        - FUNCTIONAL:
+            - hot links to email, linkedIn, gitHub 
+
+        - NON-FUNCTIONAL:
+
+SIDE NOTES:
+    - add google analytics
+    - be sure to add the following projects:
+        - vanilla JS project
+        - reactjs (website will be built using this)
+        - frontend JS project
+        - backend JS project
+        - next.js project
+        - own api project
+        - full-stack JS project
+            - mern, jwt
+        - hof project (albeit a work in progress)
+
+
+MINIMUM VIABLE PRODUCT:
+    - a deployed and working front-end
+
+USER STORIES:
+    - I am a recruiter and I want to see technical ability
+    - I am a project manager and I want to see documentation ( planning, design, list of issues encountered along with solutions)
+    - I am a stranger and I want to get to know Mubashir Dollie
+    

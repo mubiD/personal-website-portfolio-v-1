@@ -1,0 +1,99 @@
+24th Dec:
+    - all content needs to be placed into respective divs
+    - those divs need to have media queries or JS logic preventing them from being distorted on big screens
+
+27th Dec:
+    - svg needs to be visiable in Navbar
+
+App:
+    MVP:
+        - tests to be written
+    
+    Desired:
+        - app security???
+        - dark mode and light mode
+
+Navbar:
+    MVP:
+        - the MubiD needs changing to personal logo
+        - MubiD/Logo needs to alternate to a house icon when the screen goes smaller
+    
+    Desired:
+        -
+
+Home Page:
+    MVP:
+        - the paragraph needs writing
+    
+    Desired:
+        - the background needs interactivity
+            - lava floating around, paint splattering, balls bouncing, something creative and colorful
+        
+About Page:
+    MVP:
+        - the paragraph needs writing
+            - personal information
+            - education and achievements
+            - goals and ambitions
+    
+    Desired:
+        - the background needs color
+            - enlarged svg 
+
+Project Page:
+    MVP:
+        - add all text
+        - decide which projects to add
+        - link all hosted/published projects
+    
+    Desired:
+        - orange is needed
+
+Contact Page:
+    MVP:
+        - add relevant text
+        - link gitHub and LinkedIn accounts
+        - add Email send off widget
+    
+    Desired:
+        - colorful animations needed
+
+EARMARKED TASKS TO ADD:
+
+- be sure to add the following projects:
+    - vanilla JS project (done)
+    - reactjs (website will be built using this) (done)
+    - frontend JS project (done)
+    - backend JS project
+    - Express JS
+    - MongoDB Project
+    - next.js project
+    - own api project
+    - full-stack JS project
+        - mern, jwt
+    - hof project (albeit a work in progress)
+
+- L1:
+    - task 13
+        - task1.1 (vanilla)
+
+    - task 14
+        - JQuery
+
+    - task 15
+        - capstone
+            - front end of ecom app with cart and checkout
+
+- L2:
+    - react
+    - express
+
+- L3: 
+    - mongoDB
+    - next
+    - jwt
+    
+- Postbootcamp:
+    -HOF project
+        - internal system
+        - website
