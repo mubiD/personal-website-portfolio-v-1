@@ -25,7 +25,7 @@ Features, technologies, libraries and skills that excite me will be practiced an
   
 ### Backend: 
     - Express 
-    - 
+    - Nodemailer
     -
     -
     -
